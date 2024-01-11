@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ms-categorie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-categorie/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-document/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-document/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-employe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-employe/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-entreprise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-entreprise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-invitation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-invitation/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
