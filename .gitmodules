@@ -1,0 +1,9 @@
+[submodule "https:/github.com/HazemFelhi/GitOps_Project.git"]
+	path = https:/github.com/HazemFelhi/GitOps_Project.git
+	url = https://github.com/HazemFelhi/CI-Tekton.git
+[submodule "CI-Tekton"]
+	path = CI-Tekton
+	url = https://github.com/HazemFelhi/CI-Tekton.git
+[submodule "argocd-conf"]
+	path = argocd-conf
+	url = https://github.com/HazemFelhi/argocd-conf.git
